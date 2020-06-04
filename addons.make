@@ -1,0 +1,4 @@
+ofxBlur
+ofxGui
+ofxMidi
+ofxMidiFighterTwister
